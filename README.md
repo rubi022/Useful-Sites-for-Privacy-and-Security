@@ -11,6 +11,7 @@
 8. [AnonAddy](https://anonaddy.com/) - Anonymous email forwarding.  
 9. [10minutemail](https://10minutemail.com/) - Another quick disposable email tool.  
 10. [Posteo](https://posteo.de/en) - Privacy-focused email hosting.  
+11. [ShortUrl](https://shorturl.st) - ShortURL a URL Shortener.
 
 #### VPN Services  
 11. [ExpressVPN](https://www.expressvpn.com/) - Secure and fast VPN service.  
